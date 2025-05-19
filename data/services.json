@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Leak Repair",
+      "category": "Plumbing",
+      "price": 5000,
+      "rating": 4.5,
+      "availability": "24/7",
+      "city": "Lahore",
+      "image": "https://images.unsplash.com/photo-1581578735769-4c7439142495"
+    },
+    {
+      "id": 2,
+      "name": "Wiring Installation",
+      "category": "Electrical",
+      "price": 7000,
+      "rating": 4.8,
+      "availability": "9 AM - 5 PM",
+      "city": "Karachi",
+      "image": "https://images.unsplash.com/photo-1578574579388-47d803e3b343"
+    },
+    {
+      "id": 3,
+      "name": "Interior Painting",
+      "category": "Painting",
+      "price": 10000,
+      "rating": 4.2,
+      "availability": "Weekends",
+      "city": "Islamabad",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    },
+    {
+      "id": 4,
+      "name": "Carpenter",
+      "category": "Carpentry",
+      "price": 6000,
+      "rating": 4.7,
+      "availability": "10 AM - 6 PM",
+      "city": "Lahore",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+    },
+    {
+      "id": 5,
+      "name": "Engineer",
+      "category": "Engineering",
+      "price": 8000,
+      "rating": 4.9,
+      "availability": "By Appointment",
+      "city": "Karachi",
+      "image": "https://images.unsplash.com/photo-1503387762-5927c2ebaeea"
+    },
+    {
+      "id": 6,
+      "name": "Huvor",
+      "category": "Special Services",
+      "price": 9000,
+      "rating": 4.6,
+      "availability": "24/7",
+      "city": "Islamabad",
+      "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d"
+    },
+    {
+      "id": 7,
+      "name": "Plasterer",
+      "category": "Masonry",
+      "price": 5500,
+      "rating": 4.4,
+      "availability": "9 AM - 5 PM",
+      "city": "Rawalpindi",
+      "image": "https://images.unsplash.com/photo-1581093450021-1a663a8a6d7b"
+    },
+    {
+      "id": 8,
+      "name": "Cleaner",
+      "category": "Cleaning Services",
+      "price": 4000,
+      "rating": 4.3,
+      "availability": "Weekends",
+      "city": "Lahore",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    }
+  ]
